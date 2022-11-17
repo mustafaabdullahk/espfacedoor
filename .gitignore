@@ -26,10 +26,10 @@ components/**/build
 components/**/sdkconfig
 components/**/sdkconfig.old
 
-# Example project files
-examples/**/sdkconfig
-examples/**/sdkconfig.old
-examples/**/build
+# Project files
+sdkconfig
+sdkconfig.old
+build
 
 # Doc build artifacts
 docs/_build/
