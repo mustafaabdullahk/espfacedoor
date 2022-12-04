@@ -2,4 +2,4 @@
 #                     INCLUDE_DIRS ".")
 idf_component_register(SRC_DIRS .
                        INCLUDE_DIRS .
-                       REQUIRES esp32-camera esp_http_client nvs_flash)
+                       REQUIRES esp32-camera esp_http_client nvs_flash esp32-wifi-manager)
